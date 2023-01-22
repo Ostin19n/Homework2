@@ -8,5 +8,5 @@ Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine());
 int numA = num / 10;
 int numB=numA%10;
-Console.WriteLine($"Введенное число {num} , второе число {numB}");
+Console.WriteLine($"Введенное число {num} , вторая цифра числа {numB}");
 
