@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\bin\Debug\net6.0\Ex15.exe
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\bin\Debug\net6.0\Ex15.deps.json
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\bin\Debug\net6.0\Ex15.runtimeconfig.json
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\bin\Debug\net6.0\Ex15.dll
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\bin\Debug\net6.0\Ex15.pdb
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.dll
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\refint\Ex15.dll
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.pdb
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\Ex15.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\GB\C##\HW2\Ex15\obj\Debug\net6.0\ref\Ex15.dll
