@@ -5,9 +5,11 @@
 Console.Write("Введите любое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 string anyNumberText = Convert.ToString(num);
-if (anyNumberText.Length > 2){
+if (anyNumberText.Length > 2)
+{
   Console.WriteLine("Третья цифра: " + anyNumberText[2]);
 }
-else {
+else 
+{
   Console.WriteLine("Третья цифра отсутствует");
 }
